@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" title="cancel icon" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-472,-72)">
+        <path d="M487.921,86.484L499.25,74.25C499.624,73.846 500.256,73.822 500.661,74.196C501.065,74.57 501.089,75.202 500.715,75.607L489.281,87.954L500.715,100.301C501.089,100.705 501.065,101.337 500.661,101.711C500.256,102.086 499.624,102.061 499.25,101.657L487.921,89.423L476.592,101.657C476.218,102.061 475.585,102.086 475.181,101.711C474.777,101.337 474.753,100.705 475.127,100.301L486.56,87.954L475.127,75.607C474.753,75.202 474.777,74.57 475.181,74.196C475.585,73.822 476.218,73.846 476.592,74.25L487.921,86.484Z"/>
+    </g>
+</svg>
